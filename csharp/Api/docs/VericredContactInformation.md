@@ -1,0 +1,67 @@
+
+# MarisIT.Api.Model.VericredContactInformation
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Error** | **string** |  | [optional] 
+**Surname** | **string** |  | [optional] 
+**Name** | **string** |  | [optional] 
+**IdNumber** | **string** |  | [optional] 
+**HomeTel1** | **string** |  | [optional] 
+**HomeTel1Date** | **string** |  | [optional] 
+**HomeTel2** | **string** |  | [optional] 
+**HomeTel2Date** | **string** |  | [optional] 
+**HomeTel3** | **string** |  | [optional] 
+**HomeTel3Date** | **string** |  | [optional] 
+**WorkTel1** | **string** |  | [optional] 
+**WorkTel1Date** | **string** |  | [optional] 
+**WorkTel2** | **string** |  | [optional] 
+**WorkTel2Date** | **string** |  | [optional] 
+**WorkTel3** | **string** |  | [optional] 
+**WorkTel3Date** | **string** |  | [optional] 
+**CellTel1** | **string** |  | [optional] 
+**CellTel1Date** | **string** |  | [optional] 
+**CellTel2** | **string** |  | [optional] 
+**CellTel2Date** | **string** |  | [optional] 
+**CellTel3** | **string** |  | [optional] 
+**CellTel3Date** | **string** |  | [optional] 
+**Address1Line1** | **string** |  | [optional] 
+**Address1Line2** | **string** |  | [optional] 
+**Address1Town** | **string** |  | [optional] 
+**Address1Suburb** | **string** |  | [optional] 
+**Address1Code** | **string** |  | [optional] 
+**Address1Date** | **string** |  | [optional] 
+**Address2Line1** | **string** |  | [optional] 
+**Address2Line2** | **string** |  | [optional] 
+**Address2Suburb** | **string** |  | [optional] 
+**Address2Town** | **string** |  | [optional] 
+**Address2Code** | **string** |  | [optional] 
+**Address2Date** | **string** |  | [optional] 
+**Address3Line1** | **string** |  | [optional] 
+**Address3Line2** | **string** |  | [optional] 
+**Address3Suburb** | **string** |  | [optional] 
+**Address3Town** | **string** |  | [optional] 
+**Address3Code** | **string** |  | [optional] 
+**Address3Date** | **string** |  | [optional] 
+**EmailAddress1** | **string** |  | [optional] 
+**EmailAddress1Date** | **string** |  | [optional] 
+**EmailAddress2** | **string** |  | [optional] 
+**EmailAddress2Date** | **string** |  | [optional] 
+**EmailAddress3** | **string** |  | [optional] 
+**EmailAddress3Date** | **string** |  | [optional] 
+**Employer1** | **string** |  | [optional] 
+**Employer1JobTitle** | **string** |  | [optional] 
+**Employer1Date** | **string** |  | [optional] 
+**Employer2** | **string** |  | [optional] 
+**Employer2JobTitle** | **string** |  | [optional] 
+**Employer2Date** | **string** |  | [optional] 
+**Employer3** | **string** |  | [optional] 
+**Employer3JobTitle** | **string** |  | [optional] 
+**Employer3Date** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models)
+[[Back to API list]](../README.md#documentation-for-api-endpoints)
+[[Back to README]](../README.md)
+

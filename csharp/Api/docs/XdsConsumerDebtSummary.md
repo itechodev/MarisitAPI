@@ -1,0 +1,67 @@
+
+# MarisIT.Api.Model.XdsConsumerDebtSummary
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**CourtNoticeCount** | **int** |  | [optional] 
+**DebtReviewStatus** | **string** |  | [optional] 
+**DefaultListingAmt** | **string** |  | [optional] 
+**DefaultListingCount** | **int** |  | [optional] 
+**DisplayText** | **string** |  | [optional] 
+**DisputeMessage** | **string** |  | [optional] 
+**HighestMonthsInArrears** | **string** |  | [optional] 
+**HighestMonthsinArrearsCPA** | **string** |  | [optional] 
+**HighestMonthsinArrearsNLR** | **string** |  | [optional] 
+**JudgementCount** | **int** |  | [optional] 
+**MostRecentAdverseDate** | **string** |  | [optional] 
+**MostRecentCourtNoticeDate** | **string** |  | [optional] 
+**MostRecentEnqDateLast24Months** | **string** |  | [optional] 
+**MostRecentJudgmentDate** | **string** |  | [optional] 
+**NoOFActiveAccounts** | **int** |  | [optional] 
+**NoOFActiveAccountsCPA** | **int** |  | [optional] 
+**NoOFActiveAccountsNLR** | **int** |  | [optional] 
+**NoOfAccountInBadStanding** | **int** |  | [optional] 
+**NoOfAccountInBadStandingCPA** | **int** |  | [optional] 
+**NoOfAccountInBadStandingNLR** | **int** |  | [optional] 
+**NoOfAccountInGoodStanding** | **int** |  | [optional] 
+**NoOfAccountInGoodStandingCPA** | **int** |  | [optional] 
+**NoOfAccountInGoodStandingNLR** | **int** |  | [optional] 
+**NoOfAccountsOpenedinLast45Days** | **int** |  | [optional] 
+**NoOfAccountsOpenedinLast45DaysCPA** | **int** |  | [optional] 
+**NoOfAccountsOpenedinLast45DaysNLR** | **int** |  | [optional] 
+**NoOfEnqinLast24Months** | **int** |  | [optional] 
+**NoOfEnquiriesLast90DaysOTH** | **int** |  | [optional] 
+**NoOfEnquiriesLast90DaysOTHCPA** | **int** |  | [optional] 
+**NoOfEnquiriesLast90DaysOTHNLR** | **int** |  | [optional] 
+**NoOfEnquiriesLast90DaysOWN** | **int** |  | [optional] 
+**NoOfEnquiriesLast90DaysOWNCPA** | **int** |  | [optional] 
+**NoOfEnquiriesLast90DaysOWNNLR** | **int** |  | [optional] 
+**NoOfPaidUpOrClosedAccounts** | **int** |  | [optional] 
+**NoOfPaidUpOrClosedAccountsCPA** | **int** |  | [optional] 
+**NoOfPaidUpOrClosedAccountsNLR** | **int** |  | [optional] 
+**NoofAccountdefaults** | **int** |  | [optional] 
+**RecentDefaultListingDate** | **string** |  | [optional] 
+**TotalAdverseAmountCPA** | **string** |  | [optional] 
+**TotalAdverseAmountNLR** | **string** |  | [optional] 
+**TotalAdverseAmt** | **string** |  | [optional] 
+**TotalArrearAmount** | **string** |  | [optional] 
+**TotalArrearAmountCPA** | **string** |  | [optional] 
+**TotalArrearAmountNLR** | **string** |  | [optional] 
+**TotalCourtNoticeAmt** | **string** |  | [optional] 
+**TotalJudgmentAmt** | **string** |  | [optional] 
+**TotalMonthlyInstallment** | **string** |  | [optional] 
+**TotalMonthlyInstallmentCPA** | **string** |  | [optional] 
+**TotalMonthlyInstallmentNLR** | **string** |  | [optional] 
+**TotalOutStandingDebt** | **string** |  | [optional] 
+**TotalOutStandingDebtCPA** | **string** |  | [optional] 
+**TotalOutStandingDebtNLR** | **string** |  | [optional] 
+**HighestDelinquentRatingCPA** | **string** |  | [optional] 
+**HighestMonthsinArrears** | **string** |  | [optional] 
+**TotalAdverseAmount** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models)
+[[Back to API list]](../README.md#documentation-for-api-endpoints)
+[[Back to README]](../README.md)
+

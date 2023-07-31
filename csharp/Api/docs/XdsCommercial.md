@@ -1,0 +1,65 @@
+
+# MarisIT.Api.Model.XdsCommercial
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**ChangeHistoryInformation** | [**List&lt;XdsChangeHistoryInformation&gt;**](XdsChangeHistoryInformation.md) |  | [optional] 
+**ActiveDirectorAddressHistory** | [**List&lt;XdsDirectorAddressHistory&gt;**](XdsDirectorAddressHistory.md) |  | [optional] 
+**ActiveDirectorContactHistory** | [**List&lt;XdsDirectorContactHistory&gt;**](XdsDirectorContactHistory.md) |  | [optional] 
+**ActiveDirectorCurrentBusinessinterests** | [**List&lt;XdsBusinessInterests&gt;**](XdsBusinessInterests.md) |  | [optional] 
+**ActiveDirectorDebtReview** | [**List&lt;XdsDirectorDebtReview&gt;**](XdsDirectorDebtReview.md) |  | [optional] 
+**ActiveDirectorDefaultAlert** | [**List&lt;XdsDirectorDefaultAlert&gt;**](XdsDirectorDefaultAlert.md) |  | [optional] 
+**ActiveDirectorJudgments** | [**List&lt;XdsDirectorJudgments&gt;**](XdsDirectorJudgments.md) |  | [optional] 
+**ActiveDirectorPreviousBusinessInterests** | [**List&lt;XdsBusinessInterests&gt;**](XdsBusinessInterests.md) |  | [optional] 
+**ActiveDirectorPropertyInterests** | [**List&lt;XdsDirectorPropertyInterests&gt;**](XdsDirectorPropertyInterests.md) |  | [optional] 
+**BusinessEnquiryHistory** | [**List&lt;XdsBusinessEnquiryHistory&gt;**](XdsBusinessEnquiryHistory.md) |  | [optional] 
+**AccountVerification** | [**List&lt;XdsCommercialAccountVerification&gt;**](XdsCommercialAccountVerification.md) |  | [optional] 
+**ActivePrincipalInfoSummary** | [**XdsCommercialPrincipalInfoSummary**](XdsCommercialPrincipalInfoSummary.md) |  | [optional] 
+**ActivePrincipalInformation** | [**List&lt;XdsCommercialPrincipalInformation&gt;**](XdsCommercialPrincipalInformation.md) |  | [optional] 
+**AddressInformation** | [**List&lt;XdsCommercialAddressInformation&gt;**](XdsCommercialAddressInformation.md) |  | [optional] 
+**AuditorInformation** | [**List&lt;XdsCommercialAuditorInformation&gt;**](XdsCommercialAuditorInformation.md) |  | [optional] 
+**BankCodeHistory** | [**List&lt;XdsCommercialBankCodeHistory&gt;**](XdsCommercialBankCodeHistory.md) |  | [optional] 
+**BusinessInformation** | [**XdsCommercialBusinessInformation**](XdsCommercialBusinessInformation.md) |  | [optional] 
+**CompanyInformation** | [**XdsCommercialCompanyInformation**](XdsCommercialCompanyInformation.md) |  | [optional] 
+**DirectorInformation** | [**List&lt;XdsCommercialDirectorInformation&gt;**](XdsCommercialDirectorInformation.md) |  | [optional] 
+**InActivePrincipalInfoSummary** | [**XdsCommercialPrincipalInfoSummary**](XdsCommercialPrincipalInfoSummary.md) |  | [optional] 
+**NactivePrincipalInformation** | [**List&lt;XdsCommercialPrincipalInformation&gt;**](XdsCommercialPrincipalInformation.md) |  | [optional] 
+**PossibleNames** | [**List&lt;XdsCommercialPossibleName&gt;**](XdsCommercialPossibleName.md) |  | [optional] 
+**Judgment** | [**List&lt;XdsJudgment&gt;**](XdsJudgment.md) |  | [optional] 
+**JudgmentSummary** | [**XdsCommercialJudgmentSummary**](XdsCommercialJudgmentSummary.md) |  | [optional] 
+**PossibleJudgment** | [**List&lt;XdsCommercialPossibleJudgment&gt;**](XdsCommercialPossibleJudgment.md) |  | [optional] 
+**PrincipalInformation** | [**List&lt;XdsCommercialPrincipalInformation&gt;**](XdsCommercialPrincipalInformation.md) |  | [optional] 
+**PropertyInformation** | [**List&lt;XdsCommercialPropertyInformation&gt;**](XdsCommercialPropertyInformation.md) |  | [optional] 
+**Scoring** | [**XdsCommercialScoring**](XdsCommercialScoring.md) |  | [optional] 
+**TelephoneInformation** | [**List&lt;XdsCommercialTelephoneInformation&gt;**](XdsCommercialTelephoneInformation.md) |  | [optional] 
+**TradeReferencesInformation** | [**List&lt;XdsCommercialTradeReferencesInformation&gt;**](XdsCommercialTradeReferencesInformation.md) |  | [optional] 
+**VatInformation** | [**XdsCommercialVATInformation**](XdsCommercialVATInformation.md) |  | [optional] 
+**DirectorAddressHistory** | [**List&lt;XdsDirectorAddressHistory&gt;**](XdsDirectorAddressHistory.md) |  | [optional] 
+**DirectorContactHistory** | [**List&lt;XdsDirectorContactHistory&gt;**](XdsDirectorContactHistory.md) |  | [optional] 
+**DirectorCurrentBusinessinterests** | [**List&lt;XdsBusinessInterests&gt;**](XdsBusinessInterests.md) |  | [optional] 
+**DirectorDebtReview** | [**List&lt;XdsDirectorDebtReview&gt;**](XdsDirectorDebtReview.md) |  | [optional] 
+**DirectorDefaultAlert** | [**XdsDirectorDefaultAlert**](XdsDirectorDefaultAlert.md) |  | [optional] 
+**DirectorJudgments** | [**List&lt;XdsDirectorJudgments&gt;**](XdsDirectorJudgments.md) |  | [optional] 
+**DirectorPreviousBusinessInterests** | [**List&lt;XdsBusinessInterests&gt;**](XdsBusinessInterests.md) |  | [optional] 
+**DirectorPropertyInterests** | [**List&lt;XdsDirectorPropertyInterests&gt;**](XdsDirectorPropertyInterests.md) |  | [optional] 
+**InactiveDirectorAddressHistory** | [**List&lt;XdsDirectorAddressHistory&gt;**](XdsDirectorAddressHistory.md) |  | [optional] 
+**InactiveDirectorCurrentBusinessinterests** | [**List&lt;XdsBusinessInterests&gt;**](XdsBusinessInterests.md) |  | [optional] 
+**InactiveDirectorDebtReview** | [**XdsDirectorDebtReview**](XdsDirectorDebtReview.md) |  | [optional] 
+**InactiveDirectorDefaultAlert** | [**XdsDirectorDefaultAlert**](XdsDirectorDefaultAlert.md) |  | [optional] 
+**InactiveDirectorJudgments** | [**List&lt;XdsDirectorJudgments&gt;**](XdsDirectorJudgments.md) |  | [optional] 
+**InactiveDirectorPreviousBusinessInterests** | [**List&lt;XdsBusinessInterests&gt;**](XdsBusinessInterests.md) |  | [optional] 
+**InactiveDirectorPropertyInterests** | [**List&lt;XdsDirectorPropertyInterests&gt;**](XdsDirectorPropertyInterests.md) |  | [optional] 
+**ReportInformation** | [**XdsReportInformation**](XdsReportInformation.md) |  | [optional] 
+**SubscriberInputDetails** | [**XdsSubscriberInputDetails**](XdsSubscriberInputDetails.md) |  | [optional] 
+**XdsCommercialAddressHistory** | [**List&lt;XdsCommercialAddressHistory&gt;**](XdsCommercialAddressHistory.md) |  | [optional] 
+**XdsCommercialContactHistory** | [**List&lt;XdsCommercialContactHistory&gt;**](XdsCommercialContactHistory.md) |  | [optional] 
+**BusinessRescue** | [**List&lt;XdsBusinessRescue&gt;**](XdsBusinessRescue.md) |  | [optional] 
+**CommercialDefaultAlert** | [**List&lt;XdsCommercialDefaultAlert&gt;**](XdsCommercialDefaultAlert.md) |  | [optional] 
+**XdsPaymentNotification** | [**List&lt;XdsXDSPaymentNotification&gt;**](XdsXDSPaymentNotification.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models)
+[[Back to API list]](../README.md#documentation-for-api-endpoints)
+[[Back to README]](../README.md)
+
